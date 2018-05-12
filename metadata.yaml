@@ -1,0 +1,34 @@
+_repo: Aucassin--amp--NicoletteAnd-Other-Mediaeval-Romances-and-Legends_38110
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mason, Eugene
+    gutenberg_agent_id: '5102'
+    url: http://www.gutenberg.org/2009/agents/5102
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- To 1500 -- Translations into English'
+- !lcsh 'Tales, Medieval'
+- !lcsh 'Romances'
+- !lcsh 'Tales -- France'
+tableOfContents: Introduction -- 'Tis of Aucassin and of Nicolette -- The story of
+  King Constant, the Emperor -- Our Lady's tumbler -- The lay of the little bird --
+  The divided horsecloth -- Sir Hugh of Tabarie -- The story of King Florus and of
+  the fair Jehane -- Of the covetous man and of the envious man -- Of a Jew who took
+  as surety the image of Our Lady -- The lay of Graelent -- The three thieves -- The
+  friendship of Amis and Amile -- Of the knight who prayed whilst Our Lady tourneyed
+  in his stead -- The priest and the mulberries -- The story of Asenath -- The palfrey.
+title: Aucassin & Nicolette, and Other Mediaeval Romances and Legends
+url: http://www.gutenberg.org/ebooks/38110
